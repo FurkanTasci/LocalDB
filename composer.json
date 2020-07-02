@@ -1,5 +1,5 @@
 {
-    "name": "FurkanTasci/LocalDB",
+    "name": "furkantasci/localdb",
     "description": "A JSON based Key - Value Database",
     "type": "library",
     "authors": [
