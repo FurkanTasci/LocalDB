@@ -1,0 +1,19 @@
+{
+    "name": "FurkanTasci/LocalDB",
+    "description": "A JSON based Key - Value Database",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Furkan Tasci",
+            "email": "kontakt@furkantasci.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LocalDB\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=7.2.1"
+    }
+}
