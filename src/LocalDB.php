@@ -8,11 +8,6 @@ use stdClass;
 /**
  * @author Furkan Tasci <kontakt@furkantasci.de>
  * @package LocalDB\LocalDB
- * 
- * 
- * ToDo: 
- *  - use Repository Design Patterm 
- *  - 
  */
 
 class LocalDB
